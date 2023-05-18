@@ -1,0 +1,16 @@
+D:\xampp\htdocs\TTNN\detaiso2\TTNL\TTNL\bin\Debug\TTNL.dll
+D:\xampp\htdocs\TTNN\detaiso2\TTNL\TTNL\bin\Debug\TTNL.pdb
+D:\xampp\htdocs\TTNN\detaiso2\TTNL\TTNL\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\xampp\htdocs\TTNN\detaiso2\TTNL\TTNL\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\xampp\htdocs\TTNN\detaiso2\TTNL\TTNL\obj\Debug\TTNL.dll
+D:\xampp\htdocs\TTNN\detaiso2\TTNL\TTNL\obj\Debug\TTNL.pdb
+D:\xampp\htdocs\detaiso2\TTNL\TTNL\bin\Debug\TTNL.dll
+D:\xampp\htdocs\detaiso2\TTNL\TTNL\bin\Debug\TTNL.pdb
+D:\xampp\htdocs\detaiso2\TTNL\TTNL\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\xampp\htdocs\detaiso2\TTNL\TTNL\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\xampp\htdocs\detaiso2\TTNL\TTNL\obj\Debug\TTNL.dll
+D:\xampp\htdocs\detaiso2\TTNL\TTNL\obj\Debug\TTNL.pdb
+D:\xampp\htdocs\detaiso2\TTNL\TTNL\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\xampp\htdocs\detaiso2\TTNL\TTNL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\xampp\htdocs\detaiso2\TTNL\TTNL\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\xampp\htdocs\detaiso2\TTNL\TTNL\obj\Debug\DTO.csproj.CopyComplete
